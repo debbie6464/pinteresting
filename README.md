@@ -1,8 +1,6 @@
-#Today is the day...and it is cold
+#Pinteresting site
 
-hello world and all you git commands
-
-[*Ready Recover*](http://readyrecover.com)
+First application using github and rails
 
 by debbie yoro
 
