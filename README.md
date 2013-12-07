@@ -1,7 +1,9 @@
 #Pinteresting site
 
-First application using github and rails
+Curt is helping me with this stuff.  
 
-by debbie yoro
+#I need lots of help with this....
+
+by Debbie
 
 
