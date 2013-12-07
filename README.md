@@ -1,8 +1,9 @@
-# Debbie is trying to learn about github and rails
+#Today is the day...and it is cold
 
-This will take me longer than one month.
+hello world and all you git commands
 
-[*One Month rails](http://onemonthrails.com)
+[*Ready Recover*](http://readyrecover.com)
 
-by [Debbie Yoro]
+by debbie yoro
+
 
