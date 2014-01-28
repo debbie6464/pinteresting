@@ -3,6 +3,13 @@ class PagesController < ApplicationController
   end
 
   def about
-  end
+	end
+
+  def pastevent
+	end 
+
+	def futureevents
+	end
+	
 end
  
