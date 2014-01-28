@@ -1,4 +1,6 @@
 Pinteresting::Application.routes.draw do
+  resources :events
+
   root "pages#home"
   get "about" => "pages#about"
   get "event" => "pages#event"
