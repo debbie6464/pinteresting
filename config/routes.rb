@@ -2,6 +2,7 @@ Pinteresting::Application.routes.draw do
   resources :events
 
   root "pages#home"
+  get "homelink" => "events#new"
   get "about" => "pages#about"
   get "createanevent" => "pages#createanevent"
   get "futureevents" => "pages#futureevents"
